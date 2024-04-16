@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishnuVardhan8055
-- 👀 I’m interested in Python, ML, Data-Science, Ai, CC
-- 🌱 I’m currently learning Ai &  ML, Data Engineering.
-- 💞️ I’m looking to collaborate on DATA-Science, Ai, ML
+- 👀 I’m interested in Aritifical Intelligence, Data-Engineering, DevOps, Cloud Computing.
+- 🌱 I’m currently learning Ai &  ML, Data Engineering , DevOps.
+- 💞️ I’m looking to collaborate on  Ai, ML, Devops .
 - 📫 How to reach me by gmail- polankivishnuvardhan27@gmail.com  , https://www.linkedin.com/in/polanki-vishnu-vardhan-332b21216
 
 <!---
